@@ -1,27 +1,22 @@
 manifestVersion: 1
 id: sparkles-linkding
 name: Linkding
-tagline: Simple Bookmarks Manager
-icon: https://svgur.com/i/mvA.svg
+tagline: A self-hosted bookmark manager designed be to be minimal, fast, and easy to set up.
+icon: https://linkding.link/_astro/logo.DkvM5cgj.svg
 category: Aplicativos
 version: "1.0.0"
 port: 9090
 description: >-
-  A Simple Bookmarks Manager.
-
-
-  You can also add newlines!
+  A self-hosted bookmark manager designed be to be minimal, fast, and easy to set up.
 
 developer: Linkding
-website: https://adicionar.com
+website: https://linkding.link
 submitter: Linkding
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: https://github.com/sissbruecker/linkding
+repo: https://github.com/sissbruecker/linkding
+support: https://github.com/sissbruecker/linkding
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://github.com/sissbruecker/linkding/raw/master/docs/public/linkding-screenshot.png?raw=true
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
