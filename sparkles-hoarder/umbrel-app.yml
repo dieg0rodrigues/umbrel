@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: sparkles-Hoarder
+name: Hoarder
+tagline: The Bookmark Everything App
+icon: https://magenta-ola-80.tiiny.site/logo.svg
+category: Aplicativos
+version: "1.0.0"
+port: 7000
+description: >-
+  A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search!
+
+developer: Hoarder
+website: https://hoarder.app
+submitter: Hoarder
+submission: https://github.com/hoarder-app/hoarder
+repo: https://github.com/hoarder-app/hoarder
+support: https://github.com/hoarder-app/hoarder
+gallery:
+  - https://github.com/hoarder-app/hoarder/raw/main/screenshots/homepage.png?raw=true
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
