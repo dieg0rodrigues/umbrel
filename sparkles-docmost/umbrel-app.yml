@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: sparkles-docmost
+name: Docmost
+tagline: Open-source collaborative wiki and documentation software
+icon: https://raw.githubusercontent.com/selfhst/icons/refs/heads/main/webp/docmost.webp
+category: Aplicativos
+version: "1.0.0"
+port: 3000
+description: >-
+  Open-source collaborative wiki and documentation software.
+
+developer: Docmost
+website: https://docmost.com
+submitter: Docmost
+submission: https://github.com/docmost/docmost
+repo: https://github.com/docmost/docmost
+support: https://github.com/docmost/docmost
+gallery:
+  - https://camo.githubusercontent.com/242ed60fe9d9d3c7e1d8d7d3f64d28d23c0a81e5963265880095e0e9c7604205/68747470733a2f2f646f636d6f73742e636f6d2f73637265656e73686f74732f686f6d652e706e67
+  - https://camo.githubusercontent.com/b02f50fa0be32848b155924181e143ef10dd55c0a7a0bc491fffc12b807159ed/68747470733a2f2f646f636d6f73742e636f6d2f73637265656e73686f74732f656469746f722e706e67
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
